@@ -1,4 +1,4 @@
-## Models：
+## DGP：
 
 $$
 Y(1)=x_1x_2 + \bf{x}^T\beta + \varepsilon_1\\
@@ -23,7 +23,7 @@ $N_E=N_U=100$, $p=300$.
 ## Result：
 
 $$
-\begin{eqnarray}
+\begin{align}
 \sqrt{N_{E}}\left(\begin{matrix}
     \hat{\bf{\beta}}_G-\bf{\beta}^0_G \\
     \hat{\bf{\gamma}}_G-\hat{\bf{\gamma}}_{E,G}
@@ -36,7 +36,7 @@ $$
     342.5& 37.5 \\
     37.5 & 16.5
     \end{matrix}\right)\right),
-\end{eqnarray}
+\end{align}
 $$
 
 
