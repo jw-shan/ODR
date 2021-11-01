@@ -25,7 +25,6 @@ N2 = 100
 N  = N1 + N2
 
 
-
 ## primary data
 data1 = datagen(SEED,N1,p)
 
